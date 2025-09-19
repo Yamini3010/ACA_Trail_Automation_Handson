@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Testng and Extent Report">
+
+    <test name="Sanity Test Suite">
+        <classes>
+            
+            <class name="Testng_Extent_Report_Ex.AmazonHomePageTest"/>
+          
+        </classes>
+    </test>
+
+</suite>

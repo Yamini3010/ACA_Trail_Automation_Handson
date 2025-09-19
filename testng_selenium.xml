@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="ACA Automation Tasks">
+
+    <!-- 1 Test block -->
+    <test name="Sanity Test Suite">
+        <classes>
+            <!-- Running multiple classes from Selenium_Assignment package -->
+            
+            <class name="Selenium_Assignment.All_Assignments"/>
+          
+        </classes>
+    </test>
+
+</suite>
